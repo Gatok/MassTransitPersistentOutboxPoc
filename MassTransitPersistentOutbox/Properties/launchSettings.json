@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "MassTransitPersistentOutbox": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:52062/swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52062;http://localhost:52063"
+    }
+  }
+}
